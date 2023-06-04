@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! I'm João, and this is a short description of my journey. 👋
 
 <div>
   <a href="https://github.com/joaojf" target="_blank">
@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on back-end Java development and also DevOps automation ...
 - 🌱 I’m currently learning and constantly improving my skills in the following technologies:
-  - Linux and Automation Tools
+  - **Linux and Automation Tools**
     - Linux
     - Bash/Shell Scripting
     - Python Scripting
@@ -34,17 +34,17 @@
     - Docker
     - Git
     - GitHub Actions
-  - AWS Services
+  - **AWS Services**
     - S3 (Amazon Web Services)
     - EC2 (Simple Storage Service)
     - Load Balancer
     - Cloudfront
-  - Monitoring and Observability
+  - **Monitoring and Observability**
     - Zabbix
     - ELK (Elasticsearch, Logstash, Kibana)
     - Prometheus
     - Grafana
-  - Infrastructure as Code
+  - **Infrastructure as Code**
     - Jenkins
 - 👯 I'm looking to collaborate on DevOps automation projects with a focus on cloud ...
 - 🤔 I’m looking for help and knowledge in techniques for scalability and optimization of cloud infrastructure ...
