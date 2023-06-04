@@ -16,9 +16,15 @@
 </div>
   
   ### 📫 How to reach me:
-<div>
-  <a href="https://www.linkedin.com/in/jfjoaoferreira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
-<div/>
+<!--<div>
+  <a href="https://www.linkedin.com/in/jfjoaoferreira/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><a/>
+<div/>-->
+  <div>
+  <a href="https://www.linkedin.com/in/jfjoaoferreira/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
 <br>
 
 - 🔭 I’m currently working on back-end Java development and also DevOps automation ...
